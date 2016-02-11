@@ -16,4 +16,4 @@ Tested on Laravel 5.1 and Latest blueimp > File-Upload
 
 #License
 
-Licensed under [MIT license](http://www.opensource.org/licenses/MIT). All other framwork, library or code licensed under their respective license.
+Licensed under [MIT license](http://www.opensource.org/licenses/MIT). All other framework, library or code licensed under their respective license.

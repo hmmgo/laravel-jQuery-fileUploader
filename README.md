@@ -9,6 +9,9 @@ These are the example files to setup a basic jQuery upload file based on blueimp
 3. Add all necessary js to public folder and link it to view file.
 4. Customize the included file for your need
 
+#Requirements
+
+Tested on Laravel 5.1 and Latest blueimp > File-Upload
 
 #License
 
